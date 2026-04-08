@@ -1,3 +1,8 @@
+![Docker](https://img.shields.io/badge/Docker-ready-blue)
+![Python](https://img.shields.io/badge/Python-3.x-yellow)
+![FEM](https://img.shields.io/badge/FEM-FEniCS-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 # ⚙️ DAG — Computational FEM & Optimization Environment
 
 A DAG-based computational environment for finite element simulations, workflow orchestration, and automated hyperparameter optimization.
