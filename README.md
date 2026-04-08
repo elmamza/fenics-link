@@ -1,11 +1,22 @@
 # ⚙️ DAG — Computational FEM & Optimization Environment
 
-A ready-to-use computational environment for finite element simulations, numerical workflows, and optimization pipelines.
+A DAG-based computational environment for finite element simulations, workflow orchestration, and automated hyperparameter optimization.
 
-## ⚡ Link and Hyperparameter Optimization - Live Demo
+---
 
-![HPO Demo](docs/demo.gif)
+## ⚡ Live Demo — Link DAG Pipeline + FEM Optimization
 
+![Link Demo](docs/demo.gif)
+
+This animation shows the execution of a full computational pipeline using **Link**, a JupyterLab extension that transforms notebook cells into DAG-based workflows.
+
+It includes:
+- FEM simulation pipeline execution
+- Automated mesh convergence study
+- Hyperparameter optimization (nx, ny, nz)
+- Execution tracking and caching system
+
+> This workflow replaces manual convergence studies with automated optimization driven by the Link DAG system.
 ---
 
 ## 🚀 Quick Start
