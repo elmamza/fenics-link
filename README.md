@@ -2,6 +2,10 @@
 
 A ready-to-use computational environment for finite element simulations, numerical workflows, and optimization pipelines.
 
+## ⚡ Link and Hyperparameter Optimization - Live Demo
+
+![HPO Demo](docs/demo.gif)
+
 ---
 
 ## 🚀 Quick Start
