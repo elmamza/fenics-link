@@ -1,0 +1,32 @@
+{
+  "length": "1",
+  "load": {
+    "P": "1000",
+    "q": "0",
+    "type": "point_load",
+    "xP": "1",
+    "x_end": null,
+    "x_start": "0"
+  },
+  "material": {
+    "E": 210000000000,
+    "nu": "0.3"
+  },
+  "name": "console_point",
+  "section": {
+    "I": "0.000133",
+    "W": "0.001333",
+    "b": "0.2",
+    "h": "0.2",
+    "h_equiv": "0.2",
+    "r": null,
+    "r_int": null,
+    "tf": null,
+    "tw": null,
+    "type": "rectangular"
+  },
+  "supports": {
+    "A": "fixed",
+    "B": "free"
+  }
+}
